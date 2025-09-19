@@ -1,0 +1,21 @@
+Blogging-Platform/
+├── Frontend (React.js)/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── redux/
+│   │   ├── utils/
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── package.json
+│   └── tailwind.config.js
+└── Backend (Node.js\Express)/
+    ├── controllers/
+    ├── models/
+    ├── routes/
+    ├── middleware/
+    ├── utils/
+    ├── config/
+    ├── server.js
+    └── package.json
